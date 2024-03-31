@@ -27,8 +27,9 @@ class AppDelegate: NSObject, UIApplicationDelegate {
 
     FirebaseApp.configure()
 
-    let useEmulator = UserDefaults.standard.bool(forKey: "useEmulator")
-      print("useEmulator", useEmulator)
+      // Disabled
+//    let useEmulator = UserDefaults.standard.bool(forKey: "useEmulator")
+//      print("useEmulator", useEmulator)
 //    if useEmulator {
 //      let settings = Firestore.firestore().settings
 //      settings.host = "localhost:8080"

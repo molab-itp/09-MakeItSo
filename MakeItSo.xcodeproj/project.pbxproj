@@ -23,6 +23,7 @@
 		887D19282A137D500034829D /* RemindersListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887D19272A137D500034829D /* RemindersListRowView.swift */; };
 		888D6CD92A1FBEB300B95D9A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 888D6CD82A1FBEB300B95D9A /* GoogleService-Info.plist */; };
 		88AE77122A138B0B00C51000 /* ReminderToggleStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AE77112A138B0B00C51000 /* ReminderToggleStyle.swift */; };
+		AB8F3DC52BB99F0D00223E10 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AB8F3DC42BB99F0D00223E10 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		887D19272A137D500034829D /* RemindersListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindersListRowView.swift; sourceTree = "<group>"; };
 		888D6CD82A1FBEB300B95D9A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		88AE77112A138B0B00C51000 /* ReminderToggleStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderToggleStyle.swift; sourceTree = "<group>"; };
+		AB8F3DC42BB99F0D00223E10 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		8842940629AFEEA8002B16B9 = {
 			isa = PBXGroup;
 			children = (
+				AB8F3DC42BB99F0D00223E10 /* README.md */,
 				8842941129AFEEA8002B16B9 /* MakeItSo */,
 				8842941029AFEEA8002B16B9 /* Products */,
 			);
@@ -225,6 +228,7 @@
 			files = (
 				8842941A29AFEEA9002B16B9 /* Preview Assets.xcassets in Resources */,
 				888D6CD92A1FBEB300B95D9A /* GoogleService-Info.plist in Resources */,
+				AB8F3DC52BB99F0D00223E10 /* README.md in Resources */,
 				8842941729AFEEA9002B16B9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
