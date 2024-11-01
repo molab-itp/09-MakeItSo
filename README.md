@@ -8,3 +8,5 @@
 
 - firebase console in jht9629@gmail.com
   - https://console.firebase.google.com/u/0/project/makeitso-faa35/firestore
+
+- Note: Firestore database rule need to be maintained with current time period
